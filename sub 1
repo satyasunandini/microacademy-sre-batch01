@@ -1,0 +1,9 @@
+echo "this is simple math problem"
+echo "we are doing to perform sunstraction"
+echo "enter first value for sustract ("a=x")"
+echo "read x"
+echo "enter second value ("b=y")"
+echo "read y"
+echo "sum=($x-$y)"
+echo "result for substraction is"
+echo "$sum
