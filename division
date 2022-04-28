@@ -1,0 +1,10 @@
+#/bin/bash
+echo "it is a simple math problem"
+echo "we are goin to perform division"
+echo "enter first value for division("a=x")"
+echo "read x"
+echo "enter second value for division ("b=y")"
+echo "read y"
+echo "divide $($x/$y)"
+echo "result for division is"
+echo "$division
