@@ -1,0 +1,11 @@
+echo "this is simple math problem"
+echo "we are going to perform addition"
+echo "enter first value for addition"
+echo "x=a"
+echo "read x"
+echo "enter second value for addition"
+echo "y=b"
+echo "read y"
+echo "sum=s/($x+$y)
+echo "result for addition is"
+echo $sum
