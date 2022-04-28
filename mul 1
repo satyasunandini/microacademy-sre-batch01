@@ -1,0 +1,10 @@
+#/bin/bash
+echo "it is a simple math problem"
+echo "we are going to perform multiplication"
+echo "enter first value ("a=x")"
+echo "read x"
+echo "enter second value ("b=y")"
+echo "read y"
+echo "product =$($x*$y)"
+echo "result for multiplication is"
+echo "$product
